@@ -1,0 +1,25 @@
+# Build
+bin/
+obj/
+
+# VS & Rider
+.vs/
+.idea/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# EF Core Migrations snapshots (optional)
+# Migrations/
+
+# Docker
+*.db
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
